@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server for fetching news from Yle RSS feeds.
 
+![image](https://github.com/user-attachments/assets/f010d5b7-fb37-4257-96dd-d7a9dc0c1cba)
+
 ## Features
 
 - Fetch news from various Yle RSS feeds
